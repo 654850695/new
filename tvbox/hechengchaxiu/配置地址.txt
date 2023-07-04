@@ -1,1 +1,1 @@
-clan://localhost/tvbox/hechengchaxiu/hechengchaxiu.json
+https://ghproxy.com/https://raw.githubusercontent.com/654850695/new/main/tvbox/hechengchaxiu/hechengchaxiu.json
